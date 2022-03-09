@@ -1,4 +1,4 @@
-# Project_1_Employee_Salary_Analysis
+# Employee_Salary_Analysis
 This analysis done the on the basis active employee salary dataset. Analyse the salary details and see if we can find a good model capable of imputing/predicting the salaries.
 Executive summary The purpose of this exercise was to
 
